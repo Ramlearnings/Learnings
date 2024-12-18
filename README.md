@@ -1,2 +1,2 @@
 # Learnings
-# This project contains the required teaching materila 
+# This project contains the required teaching material
